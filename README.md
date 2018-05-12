@@ -1,19 +1,19 @@
 # Table of Contents
 
 - [Core Classes](Classes.md)
-    - [Tank](Classes.md#tank)
-    - [Ronin](Classes.md#ronin)
+    - [Blitz](Classes.md#blitz)
     - [Ghost](Classes.md#ghost)
     - [Gunner](Classes.md#gunner)
     - [Prophet](Classes.md#prophet)
-    - [Blitz](Classes.md#blitz)
+    - [Ronin](Classes.md#ronin)
+    - [Tank](Classes.md#tank)
     - [Titan](Classes.md#titan)
 
 - [Crew Book - Pantheon](Crew-Pantheon.md)
-    - [Pantheon Leveling Rewards](Crew-Pantheon.md#pantheon-leveling-rewards)
     - [Crew Upgrades](Crew-Pantheon.md#crew-upgrades)
-    - [Special Abilities](Crew-Pantheon.md#special-abilities)
     - [Key Contacts](Crew-Pantheon.md#key-contacts)
+    - [Pantheon Leveling Rewards](Crew-Pantheon.md#pantheon-leveling-rewards)
+    - [Special Abilities](Crew-Pantheon.md#special-abilities)
 
 - [DIVINE EFFORT](DIVINE-EFFORT.md)
 
