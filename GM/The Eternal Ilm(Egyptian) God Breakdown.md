@@ -33,3 +33,9 @@
 	* Warm glowing brown complexion.
 	* Extremely positive.
 	* Can’t stand being inside for extended periods of time, gets fidgety.
+
+### Sobek - God of War, Chaos, Water
+* Top Combat Leader for Ilm Military Police. Does the dirty work for Ilm: Assasination, Corporate espionage, etc.
+* Notable Features:
+	* Very Enhance with Cybernetics
+	* Skin tattoos to resemble hexagonal scales
